@@ -8,11 +8,12 @@
 	// The .devcontainer/docker-compose.yml file contains any overrides you need/want to make.
 	"dockerComposeFile": [
 		"../docker-compose.yaml",
+		"../docker-compose.override.yaml",
 		"docker-compose.yml"
 	],
 
 	"settings": {
-		"terminal.integrated.defaultProfile.linux": "bash",
+		"terminal.integrated.defaultProfile.linux": "zsh",
 	},
 	// The 'service' property is the name of the service for the container that VS Code should
 	// use. Update this value and .devcontainer/docker-compose.yml to the real service name.
