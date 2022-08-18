@@ -11,9 +11,14 @@ Projeto para fins de estudo e aplicação de conhecimentos dos cursos FullCycle 
 - Administração de Relatórios e Evoluções
 
 ## Preparação do Ambiente de desenvolvimento
- - [ ] Container Nodejs com docker
-   - [ ] Instalar zsh e plugins
-   - [ ] Git
-   - [ ] Node
-   - [ ] Jest
-   - [ ] Swcr
+ - [X] Container Nodejs com docker
+   - [X] Instalar zsh e plugins
+   - [X] Git
+   - [X] Node
+   - [X] Jest
+   - [X] Swcr
+
+## Inicando o Projeto
+ - [X] Criando pacote Shared
+ - [ ] Criando entidade patient
+ - [ ] Criando teste para o usecase
