@@ -20,5 +20,5 @@ Projeto para fins de estudo e aplicação de conhecimentos dos cursos FullCycle 
 
 ## Inicando o Projeto
  - [X] Criando pacote Shared
- - [ ] Criando entidade patient
+ - [X] Criando entidade patient
  - [ ] Criando teste para o usecase
