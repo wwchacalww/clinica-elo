@@ -1,6 +1,6 @@
-import AggregateRoot from "modules/@shared/domain/entity/aggregate-root.interface";
-import BaseEntity from "modules/@shared/domain/entity/base.entity";
-import { Id } from "modules/@shared/value-object/id.value-object";
+import AggregateRoot from "../../../@shared/domain/entity/aggregate-root.interface";
+import BaseEntity from "../../../@shared/domain/entity/base.entity";
+import { Id } from "../../../@shared/value-object/id.value-object";
 
 type PatientProps = {
   id?: Id;
